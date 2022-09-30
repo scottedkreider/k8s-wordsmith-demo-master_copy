@@ -3,12 +3,12 @@ CREATE TABLE verbs (word TEXT NOT NULL);
 CREATE TABLE adjectives (word TEXT NOT NULL);
 
 INSERT INTO nouns(word) VALUES
-  ('auto'),
-  ('body'),
-  ('superstar'),
-  ('laptøp'),
-  ('cøntainer'),
-  ('micrø-service'),
+  ('truck'),
+  ('arms'),
+  ('pro'),
+  ('controller'),
+  ('cup'),
+  ('pattern'),
   ('turtle'),
   ('whale'),
   ('gøpher'),
